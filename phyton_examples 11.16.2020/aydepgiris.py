@@ -13,8 +13,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 # Github credentials
 
 
-username = "13936156420"
-password = "13936156420"
+username = "kadi"
+password = "sif"
 
 # initialize the Chrome driver
 driver = webdriver.Chrome('C:/Program Files (x86)/Google/Chrome/Application/chromedriver.exe')
